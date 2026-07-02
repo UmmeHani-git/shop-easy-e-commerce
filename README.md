@@ -346,4 +346,4 @@ Accessible at `http://<ALB_DNS>/grafana/` (admin / ShopEasy2026)
 
 ## Credits
 
-© 2026 ShopEasy. Proudly built by **Ali**
+© 2026 ShopEasy. Proudly built by **UmmeHani**
